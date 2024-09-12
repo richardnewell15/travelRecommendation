@@ -1,0 +1,9 @@
+.mainbody {
+  font-family: Arial;
+  font-size: 16px;
+}
+body {
+  background-image: url(./images/skyline.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}

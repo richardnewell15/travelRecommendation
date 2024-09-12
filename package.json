@@ -1,0 +1,18 @@
+{
+  "name": "jsprogessentials",
+  "version": "1.0.0",
+  "main": "travel_recommendation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
